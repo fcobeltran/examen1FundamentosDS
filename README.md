@@ -62,3 +62,6 @@ examen1FundamentosDS/
 - Recomendaciones para retención de clientes
 
 ---
+
+Tag version: v1.0.0
+Release title: Análisis de Churn de Clientes - v1.0.0
